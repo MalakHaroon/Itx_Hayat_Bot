@@ -51,7 +51,7 @@
 ### 2. SCAN QR CODE
 <a href='https://replit.com/@Itxxwasi/WASI-TECH-1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 ### 2. SCAN QR CODE From server 2 (fast server)
-<a href='https://replit.com/@techmanwasi/WASI-TECH-1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code(2)-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://replit.com/@rashharoon49/ItxHayatBot?v=1' target="_bla"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code(2)-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
 
