@@ -7,20 +7,20 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'wasitec@gmail.com'
-global.github = 'https://github.com/itxxwasi/wasi-tech'
+global.github = 'https://github.com/MalakHaroon/Itx_Hayat_Bot'
 global.location = 'pakistan'
 global.gurl = 'https://instagram.com/chwaseem565_' // add your username
-global.sudo = process.env.SUDO || '923135673658'
-global.devs = '923192173398';
+global.sudo = process.env.SUDO || '92355706152'
+global.devs = '923355706152';
 global.website = 'https://github.com/itxxwasi/wasi-tech' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'WASI-TECH' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'WASITECH' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'Itx_Hayat_Bot' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'Itx_Hayat_Bot' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'wasi-tech' : process.env.PACK_AUTHER.split(";")[0],
+  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Itx_Hayat_Bot' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS  || 'true' ,
-  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'wasi-tech' : process.env.PACK_NAME.split(";")[1],
+  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'Itx_Hayat_Bot' : process.env.PACK_NAME.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION ||  'true' ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nigga' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
