@@ -1,18 +1,18 @@
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J">
+  <a href="https://chat.whatsapp.com/JgKjY66ujNpEAmd6uKq4fc">
     <img alt=Support height="350" src="https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg"> 
     </p>
-<h1 align="center">    WASI-TECH-MULTI-DEVICE (BETA)
+<h1 align="center">    Itx_Hayat_bot-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By WASI To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By HAYAT To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/itxxwasi"><img title="Author" src="https://img.shields.io/badge/WASI-MULTI_DEVICE-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/itxxwasi"><img title="Author" src="https://img.shields.io/badge/Hayat-MULTI_DEVICE-green?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -23,10 +23,10 @@
 
 
    <p align="center">
-  <a href="https://github.com/itxxwasi/wasi-tech/fork">
+  <a href="https://github.com/MalakHaroon/Itx_Hayat_Bot">
     <img src="https://img.shields.io/github/forks/itxxwasi/wasi-tech?label=Fork&style=social">
   <p align="center"> 
-  <a href="https://github.com/itxxwasi/wasi-tech/stargazers">
+  <a href="https://github.com/MalakHaroon/Itx_Hayat_Bot">
     <img src="https://img.shields.io/github/stars/itxxwasi/wasi-tech?style=social">
       
   
