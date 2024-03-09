@@ -1,14 +1,14 @@
 { 
-  "name": "WASI-TECH",
+  "name": "Itx_Hayat_bot",
   "description": "A Whatsapp md bot built By Naveed to make experience better",
   "logo": "https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "wasi-tech", "wasi-md", "wasi","wasimdbot","theme bot","multi device","baileys"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Itx_Hayat_bot", "Hayat-md", "hayat","hayatmdbot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "WASI-TECH"
+      "value": "Itx_Hayat_bot"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
